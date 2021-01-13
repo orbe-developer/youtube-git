@@ -8,3 +8,4 @@
 8- git checkout -b branch-heroes
 9- git branch
 10- git checkout branch-name
+11- git checkout master
