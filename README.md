@@ -14,3 +14,4 @@
 12. git merge branch-name
 13. git branch -d branch-heroes
 14. git push
+15. git commit -am
